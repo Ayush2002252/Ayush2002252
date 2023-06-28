@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Selenium Web Automation and API testing
 - 💞️ I’m looking to collaborate on Quality Analysis of webapplications.                                     
-- 📫 How to reach me: mail me on ayush201086@dei.ac.in
+- 📫 How to reach me: you can mail me on ayush201086@dei.ac.in
 
 <!---
 Ayush2002252/Ayush2002252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
